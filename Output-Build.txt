@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: excersizeee, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\excersizeee\excersizeee\Program.cs(25,23,25,35): error CS1520: Method must have a return type
+1>C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\excersizeee\excersizeee\Program.cs(25,23,25,35): error CS0107: More than one protection modifier
+1>Done building project "excersizeee.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
